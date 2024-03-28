@@ -1,0 +1,12 @@
+name: plmcPlugin
+version: '1.0-SNAPSHOT'
+main: pl.polskaliga.plmcplugin.PlmcPlugin
+api-version: '1.19'
+prefix: PLMC
+load: STARTUP
+authors: [knudziak]
+commands:
+  gm:
+    aliases: []
+  fly:
+    aliases: []

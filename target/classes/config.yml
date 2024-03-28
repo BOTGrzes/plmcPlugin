@@ -1,0 +1,16 @@
+prefix: "&8[&6Huj&8] "
+no-permission: "&cNie posiadasz permisji na użycie tej komendy"
+# MESSAGES
+messages:
+  gm:
+    success: "&aPomyślnie zmieniono tryb gry"
+  fly:
+    enabled: "&7Latanie zostało &awłączone"
+    disabled: "&7Latanie zostało &cwyłączone"
+    enabled-player: "&7Latanie zostało &awłączone &7dla &a{player}"
+    disabled-player: "&7Latanie zostało &cwyłączone &7dla &a{player}"
+    player-offline: "&cTen gracz jest offline"
+
+permissions:
+  gm: "plmc.gm"
+  fly: "plmc.fly"
